@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
-title: Hey, it's Asadullah
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
+title: ASADULLAH PRANTO
 description: Bookmark this to keep an eye on my project updates!
